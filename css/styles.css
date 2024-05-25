@@ -77,3 +77,12 @@ form button {
 form button:hover {
     background-color: #ff4500;
 }
+#search-input {
+    width: 300px;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
